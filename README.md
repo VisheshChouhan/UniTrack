@@ -1,6 +1,6 @@
 # University Student Interface Application
 
-Welcome to the University Student Interface Application repository! This application comprises two separate applications: one for students (Student_App) and one for teachers (Teachers_App), aimed at facilitating communication and organization within university classrooms.
+Welcome to the University Student Interface Application repository! This application comprises two separate applications: one for students (Name: Login) and one for teachers (Teachers_App), aimed at facilitating communication and organization within university classrooms.
 
 ## Features
 
@@ -42,8 +42,6 @@ To run the application locally, follow these steps:
 
 ## Contributors
 
-This project was developed by [Your Name] and [Any Other Contributors]. Contributions are welcome via pull requests.
+This project was developed by Vishesh Chouhan. Contributions are welcome via pull requests.
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
